@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#文字转语音功能
 #百度AI平台提供的语音库文件，playsound播放音频
 from aip import AipSpeech
 from playsound import playsound
