@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#调用百度语音库，语音录入识别
 import speech_recognition as sr
 import logging
 logging.basicConfig(level=logging.DEBUG)
