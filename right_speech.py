@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#识别正确所播放的语音
+#识别正确时所播放的语音提示
 from aip import AipSpeech
 from playsound import playsound
 import shutil
